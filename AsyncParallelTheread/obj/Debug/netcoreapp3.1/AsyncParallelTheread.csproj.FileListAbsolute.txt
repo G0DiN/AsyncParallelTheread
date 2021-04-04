@@ -1,0 +1,13 @@
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.csprojAssemblyReference.cache
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.AssemblyInfoInputs.cache
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.AssemblyInfo.cs
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.csproj.CoreCompileInputs.cache
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\bin\Debug\netcoreapp3.1\AsyncParallelTheread.exe
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\bin\Debug\netcoreapp3.1\AsyncParallelTheread.deps.json
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\bin\Debug\netcoreapp3.1\AsyncParallelTheread.runtimeconfig.json
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\bin\Debug\netcoreapp3.1\AsyncParallelTheread.runtimeconfig.dev.json
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\bin\Debug\netcoreapp3.1\AsyncParallelTheread.dll
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\bin\Debug\netcoreapp3.1\AsyncParallelTheread.pdb
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.dll
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.pdb
+D:\Downloads\odin\C#\AsyncParallelTheread\AsyncParallelTheread\obj\Debug\netcoreapp3.1\AsyncParallelTheread.genruntimeconfig.cache
